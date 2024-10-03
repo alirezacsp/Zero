@@ -1,3 +1,0 @@
-## go-fastdfs Stored xss
-go-fastdfs service allowed to upload any file you want and see them, so you can easily upload a html file with xss payload.
-https://github.com/alirezacsp/Zero/blob/main/Screenshot%201403-07-12%20at%2009.17.22.png
